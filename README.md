@@ -1,4 +1,4 @@
-Usefil snippets to extend functionalities of <strong>Bulgarisation for WooCommerce</strong> by Tihomir Parushev. 
+Usefil snippets to extend functionalities of <strong><a href="https://wordpress.org/plugins/bulgarisation-for-woocommerce/" taret=_blank>Bulgarisation for WooCommerce</a></strong> by Tihomir Parushev. 
 
 Available snippets: 
  <ul>
